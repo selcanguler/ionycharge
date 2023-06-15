@@ -1,0 +1,8 @@
+.underline:after {
+  background: #01FFDB;
+}
+
+.alert strong {
+  color: indianred;
+}
+
